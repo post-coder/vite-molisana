@@ -8,6 +8,7 @@ export default {
         // dobbiamo dare un nome a queste proprietà
         // per ognuna di esse dobbiamo indicare nome e TIPO DI DATO
         // String, Number, Boolean, Array, Object
+        // il tipo di dato deve iniziare con la lettera maiuscola
         pastaName: String,
         pastaImage: String
     },
